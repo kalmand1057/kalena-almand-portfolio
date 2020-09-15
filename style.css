@@ -1,3 +1,34 @@
 * {
-    font-family: 'Nanum Myeongjo', serif;
+    font-family: 'Syne', sans-serif;
+}
+a {
+    color: #123c69;
+}
+a:hover {
+    color: #5380b1;
+  }
+  header {
+    background-color: #eee2dc;
+  }
+  ul {
+      float: right;
+      margin: 10px;
+  }
+  li {
+      margin: 10px;
+  }
+  .jumbotron {
+    margin: 0px;
+    background-color: #eee2dc;
+  }
+  .container-1 {
+    padding: 70px;
+    background-color: #edc7b7;
+}
+  .container-2 {
+    padding: 70px;
+    background-color: #eee2dc;
+}
+#contact {
+    text-align: center;
 }
