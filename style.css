@@ -23,6 +23,7 @@ a:hover {
   }
   .jumbotron {
     margin: 0px;
+    color: #832545;
     background-color: #eee2dc;
   }
   .container-1 {
@@ -33,9 +34,17 @@ a:hover {
     padding: 70px;
     background-color: #eee2dc;
 }
-#contact {
-    text-align: center;
-}
 .contacts {
     list-style-type: none;
+}
+.profilepic {
+    height: 150px;
+}
+.card {
+    margin: 10px;
+    background-color: #edc7b7;
+    border: none;
+}
+#workimg {
+    height: 260px;
 }
