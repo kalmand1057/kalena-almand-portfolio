@@ -1,5 +1,9 @@
 * {
     font-family: 'Syne', sans-serif;
+    box-sizing: border-box;
+}
+*:before, *:after {
+    box-sizing: border-box;
 }
 a {
     color: #123c69;
@@ -10,7 +14,7 @@ a:hover {
   header {
     background-color: #eee2dc;
   }
-  ul {
+  .nav {
       float: right;
       margin: 10px;
   }
@@ -31,4 +35,7 @@ a:hover {
 }
 #contact {
     text-align: center;
+}
+.contacts {
+    list-style-type: none;
 }
